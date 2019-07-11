@@ -1,3 +1,3 @@
-# Movie APP
+# BinaryTree APP
 
 run: `docker-compose up`
